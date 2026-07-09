@@ -1,0 +1,4 @@
+Subject Name: Mathematics
+Subject ID: SJ1001
+Subject Level: Form 1
+Monthly Revenue: 1200

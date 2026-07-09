@@ -1,0 +1,3 @@
+Subject Name: Biology
+Subject ID: SJ001
+Monthly Revenue: 1200.00

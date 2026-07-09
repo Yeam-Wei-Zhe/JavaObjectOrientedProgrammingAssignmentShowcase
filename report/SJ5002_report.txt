@@ -1,0 +1,4 @@
+Subject Name: Science
+Subject ID: SJ5002
+Subject Level: Form 5
+Monthly Revenue: 1200
